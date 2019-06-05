@@ -3,7 +3,7 @@
 
 数据探索：data_exploration.py
 特征工程：data_pre.py
-模型训练及预测: CTR_model_ffm
+模型训练及预测: CTR_model_ffm.py
 
 操作系统：macOS Mojave 10.14.5
 内存：16G
